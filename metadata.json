@@ -1,0 +1,8 @@
+{
+  "name": "CivilSave: Emergency Grid",
+  "description": "A tactical emergency resource tracker. Users can view nearby shelters and water sources, and use AI to report status updates (e.g., 'Shelter A is full').",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
